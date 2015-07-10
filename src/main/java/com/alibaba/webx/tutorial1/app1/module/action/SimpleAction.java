@@ -19,7 +19,6 @@ package com.alibaba.webx.tutorial1.app1.module.action;
 
 import com.alibaba.citrus.turbine.Navigator;
 import com.alibaba.citrus.turbine.dataresolver.FormGroup;
-
 import com.alibaba.webx.tutorial1.app1.SimpleObject;
 
 public class SimpleAction {

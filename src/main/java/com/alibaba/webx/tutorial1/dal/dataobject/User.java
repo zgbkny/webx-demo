@@ -1,7 +1,5 @@
 package com.alibaba.webx.tutorial1.dal.dataobject;
 
-import static com.alibaba.citrus.util.StringUtil.join;
-import static com.alibaba.citrus.util.StringUtil.split;
 
 
 public class User {
